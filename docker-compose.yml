@@ -1,4 +1,4 @@
-version: '5'
+version: '2.5'
 services:
   spring_boot:
     image: harishmedasani/mongo:1.0
